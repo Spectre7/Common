@@ -1,0 +1,29 @@
+TLDR;
+git è un Control Versioning Software (cvs da verificare acronimo!).
+
+INTRO
+git è un tool per realizzare quello che in ingegneria del software
+viene comunemente chiamato software versioning.
+Sentirete parlare di altri tool quali CVS, Subversion, etc. funzionano tutti allo
+stesso modo salvo capire eventuli differenze nei termini utilizzati dai vari tool
+per indicare quelli che sono i concetti primitivi del versioning ovvero:
+branch
+tag
+head
+etc.
+
+COMANDI PRINCIPALI DA RIGA DI COMANDO
+git clone uri_repository
+// scrivo codice, aggiungo file, elimino file, modifico file, etc.....
+git add -A		<-- aggiungo all'HEAD o all'INDEX???
+git commit -m 'messaggio'
+// per quanto riguarda 'messaggio' farei comunque delle riflessioni di stile.
+git push        <-- aggiungo al repository remoto
+
+SE QUALCOSA VA STORTO?
+Date un'occhiata alla seguente pagina:
+https://help.github.com/articles/dealing-with-non-fast-forward-errors/
+
+In sostanza una soluzione è quella di incaricarmi di effettuare il merge, cioè devo
+integrare le modifiche apportate da me con quelle (più aggiornate! giusto?) del
+repository remoto.
