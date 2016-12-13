@@ -27,3 +27,29 @@ https://help.github.com/articles/dealing-with-non-fast-forward-errors/
 In sostanza una soluzione è quella di incaricarmi di effettuare il merge, cioè devo
 integrare le modifiche apportate da me con quelle (più aggiornate! giusto?) del
 repository remoto.
+
+A questo punto la sequenza di comandi è:
+git pull    <-- per scaricare il repository aggiornato
+????????
+git push
+
+STACKOVERFLOW QUESTIONS
+http://stackoverflow.com/questions/3689838/difference-between-head-working-tree-index-in-git
+
+WIKIPEDIA
+https://en.wikipedia.org/wiki/List_of_version_control_software
+
+OFFICIAL DOCUMENTATION
+https://git-scm.com/doc
+https://git-scm.com/docs/git-commit
+
+FRASI CELEBRI
+Il commit è un oggetto. Ne viene creato uno ogni volta che si lancia il comando
+git commit -m 'messaggio'. Che vuol dire oggetto qui? a che serve? come si usa?
+
+GLOSSARIO
+HEAD: the head file points to the branch you currently have checked out.
+WORKING TREE:
+INDEX = staging area information
+<PATHSPEC>:
+
