@@ -1,8 +1,18 @@
 package corsojavagenesis.common.arrays;
 
 public class SintassiArray {
+	
+
+	
+
+	
+	
 
 	public static void main(String[] args) {
+		
+		SintassiArray s = new SintassiArray();
+		
+		
 		int[] b;
 		int[] c = new int[4]; 
 		
@@ -25,6 +35,24 @@ public class SintassiArray {
 		
 		
 		
+		class Inverti{
+			public int[] invertiArray(int[] arrayDaInvertire){
+				int[] arrayInvertito=null;
+				// codice che inverte l'array
+				
+				return arrayInvertito;
+				
+			}
+			
+			
+		}
+		
+		int[] arr = new int[2];
+		
+		arr[0] = 1;
+		arr[1] = 2;
+		
+		int[] arrayInvertito = new Inverti().invertiArray(arr);
 		
 		
 
