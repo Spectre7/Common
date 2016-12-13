@@ -1,4 +1,4 @@
-package helloeclipse.ContoCorrente;
+package corsojavagenesis.common.helloworldarray.src.helloeclipse.ContoCorrente;
 
 public class ContoCorrente {
 	
