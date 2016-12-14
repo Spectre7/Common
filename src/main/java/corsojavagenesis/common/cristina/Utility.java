@@ -1,4 +1,4 @@
-package helloEclipse;
+package corsojavagenesis.common.cristina;
 
 public class Utility {
 	

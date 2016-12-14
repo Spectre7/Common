@@ -7,7 +7,7 @@ import javax.naming.NamingException;
 import javax.naming.ldap.ExtendedRequest;
 import javax.naming.ldap.ExtendedResponse;
 
-public class MyClass implements Executor, ExtendedRequest, ExceptionListener {
+public class MyClass2 implements Executor, ExtendedRequest, ExceptionListener {
 
 	public void exceptionThrown(Exception e) {
 		// TODO Auto-generated method stub
