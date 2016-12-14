@@ -1,4 +1,4 @@
-package utility;
+package corsojavagenesis.common.cristina;
 
 import java.util.Scanner;
 

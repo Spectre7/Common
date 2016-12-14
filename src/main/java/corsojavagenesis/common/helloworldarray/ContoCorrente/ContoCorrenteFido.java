@@ -1,4 +1,4 @@
-package helloeclipse.ContoCorrente;
+package corsojavagenesis.common.helloworldarray.ContoCorrente;
 
 public class ContoCorrenteFido extends ContoCorrente{
 	private double fido;

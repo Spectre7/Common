@@ -1,4 +1,4 @@
-package helloeclipse.ContoCorrente;
+package corsojavagenesis.common.helloworldarray.ContoCorrente;
 
 public class InvertiArray {
 	
