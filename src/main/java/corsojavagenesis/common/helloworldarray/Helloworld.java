@@ -1,6 +1,6 @@
-package helloeclipse;
+package corsojavagenesis.common.helloworldarray;
 
-import helloeclipse.ContoCorrente.*;
+import corsojavagenesis.common.helloworldarray.ContoCorrente.*;
 //import java.io.*;
 import java.util.*;
 
