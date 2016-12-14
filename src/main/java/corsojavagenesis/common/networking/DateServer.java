@@ -19,9 +19,10 @@ public class DateServer {
         try {
             while (true) {
                 Socket socket = listener.accept();
+                System.out.println("Attesa...");
                 try {
                     PrintWriter out = new PrintWriter(socket.getOutputStream(), true);
-                    out.println(new Date().toString());
+                    out.println("ok connesso");
                 } finally {
                     socket.close();
                 }

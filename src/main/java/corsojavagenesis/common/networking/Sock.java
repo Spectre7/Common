@@ -13,7 +13,9 @@ public class Sock {
 	}
 	
 	public OggettoReferenziato getOut(){
-		return this.out;
+		//
+		
+		return new OggettoReferenziato();
 	}
 	
 }

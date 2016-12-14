@@ -11,6 +11,7 @@ public class TestReference {
 		
 		
 		o.valore = 200;
+		System.out.println("Valore: " + o.printValore());
 		
 		
 		OggettoReferenziato o2 = s.getOut();
