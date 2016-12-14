@@ -27,7 +27,7 @@ public class Utility {
 	 * @return array invertito in uscita
 	 */
 		
-	public  int[] ArrayInverso1(int[] arr){
+	public int[] ArrayInverso1(int[] arr){
 		int l=arr.length;
 		
 		int[] arr_inv = new int[l];
