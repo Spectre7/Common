@@ -2,12 +2,16 @@
 Common learning material.
 
 # Slide
-http://vitali.web.cs.unibo.it/TechWeb16/LezioniDelCorso  
+Tecnologie web:          http://vitali.web.cs.unibo.it/TechWeb16/LezioniDelCorso  
 
-http://sweng.web.cs.unibo.it/?page_id=604  
+Ingegneria del software: http://sweng.web.cs.unibo.it/?page_id=604  
+
+Basi di dati:            http://www.cs.unibo.it/~difelice/dbsi/#materiale
+
+
 
 # Book
-http://it-ebooks.directory/book-1937785467.html  
+Functional programming in java:   http://it-ebooks.directory/book-1937785467.html  
 
-http://it-ebooks.directory/book-1530669170.html  
+Java in a week:                   http://it-ebooks.directory/book-1530669170.html  
 
