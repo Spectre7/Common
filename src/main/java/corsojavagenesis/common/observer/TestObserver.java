@@ -8,7 +8,7 @@ public class TestObserver {
 		
 		a.setA(10);
 		
-		b.checkSuAState(a.statoChanged);
+		//b.checkSuAState(a.statoChanged);
 
 	}
 

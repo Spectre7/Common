@@ -15,7 +15,7 @@ public class Server {
 		
 	}
 	
-	private ArrayList<Integer> ip;
+	private ArrayList<String> ip;
 	private int port;
 	private ServerSocket listener;
 	
@@ -27,7 +27,7 @@ public class Server {
 	public int getPort() {
 		return port;
 		
-		
+	
 	}
 
 	public void setPort(int port) {
@@ -77,7 +77,7 @@ public class Server {
 	/**
 	 * Salva un file nel disco locale del server contenente l'elenco degli ip server client connessi.
 	 * 
-	 * 
+	 * Integer
 	 * @param path	-   Stringa che rappresenta la path dove salvare il file. 
 	 * @return
 	 */
