@@ -8,6 +8,8 @@ Ingegneria del software: http://sweng.web.cs.unibo.it/?page_id=604
 
 Basi di dati:            http://www.cs.unibo.it/~difelice/dbsi/#materiale
 
+Reti:                    http://web.diegm.uniud.it/pierluca/public_html/teaching/rceat_nettuno/pdf/
+
 
 
 # Book
