@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+<class name="Evento" table="Utenti">
+<id name="id" column="Id_Evento">
+<generator class="increment"/>
+</id>
+<property name="logTxt" type="string" column="COURSE_LOG" not-null="true" />
+<property name="pswTxt" type="string" column="COURSE_PSW" not-null="true"/>
+</class>
+</hibernate-mapping>
